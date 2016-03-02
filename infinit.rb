@@ -33,6 +33,7 @@ class Infinit < Formula
     end
     bin.install Dir["bin/*"]
     libexec.install Dir["lib/*"]
+    share.install Dir["share/*"]
   end
 
   test do
