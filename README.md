@@ -7,6 +7,7 @@ Requirements
 ------------
 
 - [homebrew](http://brew.sh)
+- [FUSE for OS X 3.x](https://github.com/osxfuse/osxfuse/releases)
 
 Usage
 -----
