@@ -1,7 +1,7 @@
 Infinit homebrew repository
 ===========================
 
-This homebrew repository provides an easy way to install and update the Infinit command line interface on OS X.
+This homebrew repository provides an easy way to install and update the Infinit command line interface on macOS.
 
 Requirements
 ------------
