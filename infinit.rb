@@ -1,11 +1,11 @@
 class Infinit < Formula
 
-  version "0.7.0"
+  version "0.7.1"
 
   desc "Infinit File System Command Line Tools"
   homepage "https://infinit.sh"
   url "https://storage.googleapis.com/sh_infinit_releases/osx/infinit-x86_64-osx-clang3-#{version}.tbz"
-  sha256 "ceebdc96ef534cba2522d1881f6305315a53dbb1d65bf6878e1893bae36a31a6"
+  sha256 "e95565c689ebead1e59ed66a1257f2c26742687434fcc1605a8ac7bd8f270257"
 
   bottle :unneeded
 
