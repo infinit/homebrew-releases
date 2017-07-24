@@ -12,15 +12,15 @@ Requirements
 Usage
 -----
 
-To install Infinit, simply run the following command:
+To install Memo, simply run the following command:
 
 ```
-brew install infinit/releases/infinit
+brew install infinit/releases/memo
 ```
 
-To upgrade Infinit first refresh the package list and then run the *upgrade* command:
+To upgrade Memo first refresh the package list and then run the *upgrade* command:
 
 ```
 brew update
-brew upgrade infinit
+brew upgrade memo
 ```

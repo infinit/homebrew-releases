@@ -1,12 +1,12 @@
-class Infinit < Formula
+class Memo < Formula
 
-  version "0.8.0"
+  version "0.9.2"
 
-  desc "Infinit File System Command Line Tools"
-  homepage "https://infinit.sh"
-  project = "infinit"
+  desc "Memo Command Line Tools"
+  homepage "https://memo.infinit.sh"
+  project = "memo"
   url "https://storage.googleapis.com/sh_infinit_releases/osx/#{project}-x86_64-osx-clang3-#{version}.tbz"
-  sha256 "a4c93acd6528066cebc1a69e2b19513cb2463c6ad3c74d585b0ed464758cde5b"
+  sha256 "b61e0bd891db49398ae948f7b91fa287724bc5ff31e86c730962824912a48365"
 
   bottle :unneeded
 
@@ -32,7 +32,7 @@ class Infinit < Formula
   end
 
   def caveats; <<-EOS.undent
-    Infinit requires FUSE for macOS version 3.x. To install this use:
+    Memo requires FUSE for macOS version 3.x. To install this use:
 
       brew cask install osxfuse
 
